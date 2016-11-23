@@ -1,0 +1,21 @@
+{
+  "name": "hubot-paya",
+  "version": "0.0.1",
+  "description": "Hubot script que canta una paya, rima original de Chile",
+  "main": "paya.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanbrujo/hubot-paya.git"
+  },
+  "keywords": [
+    "hubot",
+    "random",
+    "Chile"
+  ],
+  "author": "@csslab",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanbrujo/hubot-paya/issues"
+  },
+  "homepage": "https://github.com/juanbrujo/hubot-paya#readme"
+}
