@@ -11,7 +11,7 @@
 //   hubot una paya
 //
 // Author:
-//   @csslab
+//   @juanbrujo
 
 const one = [
 	"La cueca pá los chilenos",

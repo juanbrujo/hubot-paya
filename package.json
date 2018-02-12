@@ -1,6 +1,6 @@
 {
   "name": "hubot-paya",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Hubot script que canta una paya, rima original de Chile",
   "main": "paya.js",
   "repository": {
